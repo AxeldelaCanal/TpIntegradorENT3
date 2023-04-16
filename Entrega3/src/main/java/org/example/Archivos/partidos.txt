@@ -1,0 +1,7 @@
+Partido 1: Barcelona vs Real Madrid
+Partido 2: Juventus vs AC Milan
+Partido 3: Atletico vs Paris
+Partido 4: Bayer vs City
+Partido 5: Benfica vs Inter
+Partido 6: Milan vs Napoli
+Partido 7: Tottenham vs Marsella
